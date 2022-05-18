@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Estonian TTS samples
 ---
 
 # Estonian TTS with non-autoregressive Transformers
